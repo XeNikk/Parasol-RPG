@@ -1,0 +1,13 @@
+<meta>
+   
+    <info author="Ciastuus" type="script" name="Cuboid" version="1.0" />
+	
+	<min_mta_version client="1.3.0-9.03739" server="1.3.0-9.03739" />
+	
+    <script src="c_cuboid.lua" type="client" cache="false" />
+    <script src="s_cuboid.lua" type="server" />
+	
+	<export function="strefa:zapiszPlik" type="client" />
+    <export function="strefa:zapiszPlik" type="server" />	
+	
+</meta>

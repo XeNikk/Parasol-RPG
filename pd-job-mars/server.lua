@@ -1,0 +1,50 @@
+addEvent("onPlayerGetTopData", true)
+addEventHandler("onPlayerGetTopData", resourceRoot, function()
+	if client and source == resourceRoot then 
+		local data = exports["pd-jobsettings"]:getTopJobData("astronaut")
+		triggerClientEvent(client, "onClientGetTopData", resourceRoot, data)
+	end
+end)
+
+addEvent("giveJetpack", true)
+addEventHandler("giveJetpack", resourceRoot, function(plr)
+	givePedJetPack(plr)
+end)
+
+addEvent("setDimension", true)
+addEventHandler("setDimension", resourceRoot, function(plr, dim)
+	setElementDimension(plr, dim)
+end)
+
+addEvent("removeJetpack", true)
+addEventHandler("removeJetpack", resourceRoot, function(plr)
+	removePedJetPack(plr)
+end)
+
+addEvent("setSkin", true)
+addEventHandler("setSkin", resourceRoot, function(plr, skin)
+	setElementModel(plr, skin)
+end)
+
+addEvent("killPlayer", true)
+addEventHandler("killPlayer", resourceRoot, function(plr)
+	killPlayer(plr)
+end)
+
+addEvent("setDrillAnimation", true)
+addEventHandler("setDrillAnimation", resourceRoot, function(plr)
+	giveWeapon(plr, 9)
+	setPedWeaponSlot(plr, 1)
+	setPedAnimation(plr, "chainsaw", "csaw_g")
+end)
+
+addEvent("onPlayerDrillResource", true)
+addEventHandler("onPlayerDrillResource", resourceRoot, function(plr)
+	local money = tonumber(exports["pd-jobsettings"]:getJobData("astronaut", "resource"))
+	exports["pd-core"]:giveMoney(plr, money)
+	exports["pd-jobsettings"]:addPlayerTopData(client, "astronaut", 1)
+	exports["pd-hud"]:showPlayerNotification(client, "Za wydobycie surowca otrzymujesz $" .. money .. ".", "success", "info", 5000, "success")
+	setPedAnimation(plr)
+	takeWeapon(plr, 9)
+	givePedJetPack(plr)
+end)

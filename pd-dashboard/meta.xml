@@ -1,0 +1,50 @@
+<meta>
+	<info author="XeN & edit libxxerty" type="script" name="dashboard" />
+	<script src="anim.lua" type="client" cache="false" />
+	<script src="c_dashboard.lua" type="client" cache="false" />
+	<script src="s_dashboard.lua" type="server" />
+	<file src="blackwhite.fx"/>
+
+
+	<file src="images/background.png" type="client" />
+	<file src="images/button.png" type="client" />
+	<file src="images/edit_line.png" type="client" />
+	<file src="images/logo.png" type="client" />
+	<file src="images/scrollbar.png" type="client" />
+	<file src="images/scrollbar_point.png" type="client" />
+	<file src="images/switch_off.png" type="client" />
+	<file src="images/switch_on.png" type="client" />
+
+	<file src="images/icons/achievement.png" type="client" />
+	<file src="images/icons/change_email.png" type="client" />
+	<file src="images/icons/change_nick.png" type="client" />
+	<file src="images/icons/change_password.png" type="client" />
+	<file src="images/icons/game_settings.png" type="client" />
+	<file src="images/icons/home.png" type="client" />
+	<file src="images/icons/return.png" type="client" />
+	<file src="images/icons/settings.png" type="client" />
+	<file src="images/icons/settings_graphic.png" type="client" />
+	<file src="images/icons/settings_user.png" type="client" />
+	<file src="images/icons/shop.png" type="client" />
+	<file src="images/icons/stats.png" type="client" />
+
+		<file src="images/icons/achievement_hover.png" type="client" />
+	<file src="images/icons/change_email_hover.png" type="client" />
+	<file src="images/icons/change_nick_hover.png" type="client" />
+	<file src="images/icons/change_password_hover.png" type="client" />
+	<file src="images/icons/game_settings_hover.png" type="client" />
+	<file src="images/icons/home_hover.png" type="client" />
+	<file src="images/icons/return_hover.png" type="client" />
+	<file src="images/icons/settings_hover.png" type="client" />
+	<file src="images/icons/settings_graphic_hover.png" type="client" />
+	<file src="images/icons/settings_user_hover.png" type="client" />
+	<file src="images/icons/shop_hover.png" type="client" />
+	<file src="images/icons/stats_hover.png" type="client" />
+
+		<file src="images/shop/background.png" type="client" />
+	<file src="images/shop/button.png" type="client" />
+	<file src="images/shop/premium_icon.png" type="client" />
+
+
+
+</meta>

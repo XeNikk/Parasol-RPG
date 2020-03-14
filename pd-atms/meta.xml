@@ -1,0 +1,13 @@
+<meta>
+	<script src="client.lua" type="client" cache="false"/>
+
+	<file src="images/background.png"/>
+	<file src="images/button.png"/>
+	<file src="images/edit_line.png"/>
+	<file src="images/getcash.png"/>
+	<file src="images/getcash_hover.png"/>
+	<file src="images/logout.png"/>
+	<file src="images/logout_hover.png"/>
+	<file src="images/storecash.png"/>
+	<file src="images/storecash_hover.png"/>
+</meta>

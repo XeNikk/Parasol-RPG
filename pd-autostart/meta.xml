@@ -1,0 +1,5 @@
+<meta>
+    <info author="Its Your World, mta-itsyourworld.pl, Butlipan/Rusek (Skype: kubamc3), CrosRoad95 (Skype: CrosRoad5), Kurianusz (GG: 48415884) | mtasa://80.72.47.181:20288" version="1.0" name="" type="script" description="Skrypt wykonany dla Its Your World, mta-itsyourworld.pl przez wyżej wymienionych autorów. Zakazuje się używania skryptu na serwerach innych niż Its Your World | mtasa://80.72.47.181:20288"></info>
+    <script src="s.lua" type="server"></script>
+    <script src="c.lua" type="client" cache="false"></script>
+</meta>

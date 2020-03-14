@@ -1,0 +1,102 @@
+<meta>
+	<info author="XeN" type="script" name="models-download" />
+	<script src="c_models-download.lua" type="client" cache="false" />
+	<file src="models/wheels/1.dff" />
+	<file src="models/wheels/2.dff" />
+	<file src="models/wheels/3.dff" />
+	<file src="models/wheels/4.dff" />
+	<file src="models/wheels/5.dff" />
+	<file src="models/wheels/6.dff" />
+	<file src="models/wheels/7.dff" />
+	<file src="models/wheels/8.dff" />
+	<file src="models/wheels/9.dff" />
+	<file src="models/wheels/10.dff" />
+	<file src="models/wheels/11.dff" />
+	<file src="models/wheels/12.dff" />
+	<file src="models/wheels/13.dff" />
+	<file src="models/wheels/14.dff" />
+	<file src="models/wheels/15.dff" />
+	<file src="models/wheels/16.dff" />
+	<file src="models/wheels/17.dff" />
+	<file src="models/wheels/tex.txd" />
+
+	<file src="models/vehicles/494.dff" />
+	<file src="models/vehicles/494.txd" />
+
+	<file src="models/skins/9.dff" />
+	<file src="models/skins/9.txd" />
+	<file src="models/skins/10.dff" />
+	<file src="models/skins/10.txd" />
+	<file src="models/skins/11.dff" />
+	<file src="models/skins/11.txd" />
+	<file src="models/skins/13.dff" />
+	<file src="models/skins/13.txd" />
+	<file src="models/skins/14.dff" />
+	<file src="models/skins/14.txd" />
+	<file src="models/skins/15.dff" />
+	<file src="models/skins/15.txd" />
+	<file src="models/skins/32.dff" />
+	<file src="models/skins/32.txd" />
+	<file src="models/skins/35.dff" />
+	<file src="models/skins/35.txd" />
+	<file src="models/skins/36.dff" />
+	<file src="models/skins/36.txd" />
+	<file src="models/skins/37.dff" />
+	<file src="models/skins/37.txd" />
+	<file src="models/skins/38.dff" />
+	<file src="models/skins/38.txd" />
+	<file src="models/skins/39.dff" />
+	<file src="models/skins/39.txd" />
+	<file src="models/skins/40.dff" />
+	<file src="models/skins/40.txd" />
+	<file src="models/skins/41.dff" />
+	<file src="models/skins/41.txd" />
+	<file src="models/skins/43.dff" />
+	<file src="models/skins/43.txd" />
+	<file src="models/skins/44.dff" />
+	<file src="models/skins/44.txd" />
+	<file src="models/skins/53.dff" />
+	<file src="models/skins/53.txd" />
+	<file src="models/skins/57.dff" />
+	<file src="models/skins/57.txd" />
+	<file src="models/skins/58.dff" />
+	<file src="models/skins/58.txd" />
+	<file src="models/skins/94.dff" />
+	<file src="models/skins/94.txd" />
+	<file src="models/skins/95.dff" />
+	<file src="models/skins/95.txd" />
+	<file src="models/skins/96.dff" />
+	<file src="models/skins/96.txd" />
+	<file src="models/skins/128.dff" />
+	<file src="models/skins/128.txd" />
+	<file src="models/skins/129.dff" />
+	<file src="models/skins/129.txd" />
+	<file src="models/skins/130.dff" />
+	<file src="models/skins/130.txd" />
+	<file src="models/skins/132.dff" />
+	<file src="models/skins/132.txd" />
+	<file src="models/skins/133.dff" />
+	<file src="models/skins/133.txd" />
+	<file src="models/skins/135.dff" />
+	<file src="models/skins/135.txd" />
+
+	<file src="models/skins/sapd/280.txd" />
+	<file src="models/skins/sapd/281.txd" />	
+	<file src="models/skins/sapd/282.txd" />
+	<file src="models/skins/sapd/283.txd" />
+	<file src="models/skins/sapd/284.txd" />
+	<file src="models/skins/sapd/285.txd" />
+	<file src="models/skins/sapd/286.txd" />
+	<file src="models/skins/sapd/287.txd" />
+	<file src="models/skins/sapd/280.dff" />
+	<file src="models/skins/sapd/281.dff" />	
+	<file src="models/skins/sapd/282.dff" />
+	<file src="models/skins/sapd/283.dff" />
+	<file src="models/skins/sapd/284.dff" />
+	<file src="models/skins/sapd/285.dff" />
+	<file src="models/skins/sapd/286.dff" />
+	<file src="models/skins/sapd/287.dff" />
+
+
+
+</meta>

@@ -1,0 +1,12 @@
+<meta>
+<script src="c_interaction.lua" type="client" cache="false" />
+<script src="s_interaction.lua" type="server" />
+<file src="images/header.png"/>
+<file src="images/list_background.png"/>
+<file src="images/list_background_active.png"/>
+
+<file src="images/icons/cancel.png"/>
+<file src="images/icons/object.png"/>
+<file src="images/icons/player.png"/>
+<file src="images/icons/vehicle.png"/>
+</meta>

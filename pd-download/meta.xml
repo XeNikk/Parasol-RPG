@@ -1,0 +1,23 @@
+<meta>
+	<script src="client.lua" type="client" cache="false"/>
+
+	<file src="replace.fx"/>
+
+	<file src="data/A.png"/>
+	<file src="data/B.png"/>
+	<file src="data/C.png"/>
+	<file src="data/D.png"/>
+	<file src="data/white.png"/>
+	<file src="data/sjmla_las.txd"/>
+
+	<file src="data/copcarla.dff"/>
+	<file src="data/copcarla.txd"/>
+	<file src="data/copcarru.dff"/>
+	<file src="data/copcarru.txd"/>
+	<file src="data/copcarsf.dff"/>
+	<file src="data/copcarsf.txd"/>
+	<file src="data/copcarvg.dff"/>
+	<file src="data/copcarvg.txd"/>
+	<file src="data/L.dff"/>
+	<file src="data/L.txd"/>
+</meta>

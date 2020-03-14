@@ -1,0 +1,18 @@
+<meta>
+	<info author="XeN" type="script" name="vehicle_store" />
+	<script src="c_vehicles_store.lua" type="client" cache="false" />
+	<script src="s_vehicles_store.lua" type="server" />
+
+
+	<file src="images/main_title.png" type="client" />	
+	<file src="images/background.png" type="client" />
+	<file src="images/color.png" type="client" />
+	<file src="images/data_background.png" type="client" />
+	<file src="images/data_background_active.png" type="client" />
+
+		<file src="images/klasy/A.png" type="client" />	
+		<file src="images/klasy/B.png" type="client" />	
+		<file src="images/klasy/C.png" type="client" />	
+		<file src="images/klasy/D.png" type="client" />	
+		<file src="images/klasy/E.png" type="client" />	
+</meta>

@@ -1,0 +1,9 @@
+<map edf:definitions="editor_main">
+    <object id="object (drydock3_SFSe) (1)" breakable="true" interior="0" alpha="255" model="10831" doublesided="false" scale="1" dimension="0" posX="3260.7" posY="-1426.8" posZ="72.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (subwaygate) (1)" breakable="true" interior="0" alpha="255" model="971" doublesided="false" scale="1" dimension="0" posX="3261.6001" posY="-1424.5" posZ="94.4" rotX="90" rotY="90" rotZ="0"></object>
+    <object id="object (subwaygate) (2)" breakable="true" interior="0" alpha="255" model="971" doublesided="false" scale="1" dimension="0" posX="3261.6001" posY="-1424.5" posZ="100" rotX="90" rotY="90" rotZ="0"></object>
+    <object id="object (subwaygate) (3)" breakable="true" interior="0" alpha="255" model="971" doublesided="false" scale="1" dimension="0" posX="3260.8" posY="-1420.1" posZ="98" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (subwaygate) (4)" breakable="true" interior="0" alpha="255" model="971" doublesided="false" scale="1" dimension="0" posX="3260.8999" posY="-1428.9" posZ="98" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (subwaygate) (5)" breakable="true" interior="0" alpha="255" model="971" doublesided="false" scale="1" dimension="0" posX="3258.1001" posY="-1424.4" posZ="98" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (subwaygate) (6)" breakable="true" interior="0" alpha="255" model="971" doublesided="false" scale="1" dimension="0" posX="3265.3999" posY="-1424.5" posZ="98" rotX="0" rotY="0" rotZ="90"></object>
+</map>

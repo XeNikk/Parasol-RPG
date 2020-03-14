@@ -1,0 +1,30 @@
+<meta>
+	<script src="utils.lua" type="client" cache="false"/>
+	<script src="gui.lua" type="client" cache="false"/>
+	<script src="client.lua" type="client" cache="false"/>
+	<script src="server.lua" type="server" cache="false"/>
+
+	<file src="images/angry.png"/>
+	<file src="images/background.png"/>
+	<file src="images/gui_background.png"/>
+	<file src="images/gui_button.png"/>
+	<file src="images/gui_job_image.png"/>
+	<file src="images/gui_scrollbar.png"/>
+	<file src="images/gui_scrollbar_point.png"/>
+	<file src="images/halfprice_ticket.png"/>
+	<file src="images/neutral.png"/>
+	<file src="images/normal_ticket.png"/>
+	<file src="images/select_1.png"/>
+	<file src="images/select_2.png"/>
+	<file src="images/select_background.png"/>
+	<file src="images/smile.png"/>
+	<file src="images/ticket_background.png"/>
+	<file src="images/ticket_info_background.png"/>
+
+	<file src="sounds/background.mp3"/>
+	<file src="sounds/close.wav"/>
+	<file src="sounds/open.wav"/>
+	<file src="sounds/panic.mp3"/>
+
+	<min_mta_version client="1.5.7" server="1.5.7" />
+</meta>

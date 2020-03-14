@@ -1,0 +1,10 @@
+<meta>
+	<script src="client.lua" type="client" cache="false"/>
+	<script src="gui_c.lua" type="client" cache="false"/>
+	<script src="server.lua" type="server" cache="false"/>
+
+	<file src="images/button.png"/>
+	<file src="images/shootrange_window.png"/>
+	<file src="sounds/fail.wav"/>
+	<file src="sounds/hit.wav"/>
+</meta>

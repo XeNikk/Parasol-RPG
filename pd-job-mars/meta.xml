@@ -1,0 +1,41 @@
+<meta>
+	<script src="points.lua" type="client" cache="false"/>
+	<script src="server.lua" type="server" cache="false"/>
+	<script src="gui.lua" type="client" cache="false"/>
+	<script src="client.lua" type="client" cache="false"/>
+	<script src="colision.lua" type="client" cache="false"/>
+	<script src="interface.lua" type="client" cache="false"/>
+
+	<file src="images/block.png" type="client" />
+	<file src="images/background.png"/>
+	<file src="images/background_light.png"/>
+	<file src="images/base.png"/>
+	<file src="images/fuel.png"/>
+	<file src="images/fuel_active.png"/>
+	<file src="images/fuel_icon.png"/>
+	<file src="images/gui_background.png"/>
+	<file src="images/gui_button.png"/>
+	<file src="images/gui_job_image.png"/>
+	<file src="images/gui_scrollbar.png"/>
+	<file src="images/gui_scrollbar_point.png"/>
+	<file src="images/light.png"/>
+	<file src="images/oxygen.png"/>
+	<file src="images/oxygen_active.png"/>
+	<file src="images/oxygen_icon.png"/>
+	<file src="images/stone.png"/>
+
+	<file src="models/chnsaw.dff"/>
+	<file src="models/chnsaw.txd"/>
+	<file src="models/jetpack.dff"/>
+	<file src="models/jetpack.txd"/>
+	<file src="models/skin311.dff"/>
+	<file src="models/skin311.txd"/>
+
+	<file src="sounds/background.mp3"/>
+	<file src="sounds/beep_sound.mp3"/>
+	<file src="sounds/breath.mp3"/>
+	<file src="sounds/drill.mp3"/>
+
+	<export function="loadJobModels" type="client"/>
+	<export function="unloadJobModels" type="client"/>
+</meta>

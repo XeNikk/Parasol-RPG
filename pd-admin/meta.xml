@@ -1,0 +1,24 @@
+<meta>
+  <info author="XeN" type="script" name="admin"/>
+  <oop>true</oop>
+  <script src="c_admin.lua" type="client" cache="false"/>
+  <script src="c_noti.lua" type="client" cache="false"/>
+  <script src="s_admin.lua" type="server"/>
+  <script src="s_cmd.lua" type="server"/>
+  <script src="s_tp.lua" type="server"/>
+  <script src="airbreak.lua" type="client" cache="false"/>
+  <script src="anim.lua" type="client" cache="false"/>
+
+  <file src="taser.mp3"/>
+  <file src="sounds/ann.wav"/>
+  <file src="sounds/warn.wav"/>
+  <file src="images/ann_background.png" type="client"/>
+  <file src="images/background.png" type="client"/>
+  
+  <export function="getPlayerRank" type="server"/>
+  <export function="isPlayerAdmin" type="server"/>
+  <export function="getPlayerRank" type="client"/>
+  <export function="isPlayerAdmin" type="client"/>
+  <export function="insertLog" type="server"/>
+  <export function="addNoti" type="client"/>
+</meta>

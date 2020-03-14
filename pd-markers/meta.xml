@@ -1,0 +1,17 @@
+<meta>
+	<script src="animations.lua" type="client" cache="false"/>
+	<script src="client.lua" type="client" cache="false"/>
+
+	<file src="images/clothes.png"/>
+	<file src="images/get_car.png"/>
+	<file src="images/marker.png"/>
+	<file src="images/repair.png"/>
+	<file src="images/station_lpg.png"/>
+	<file src="images/store_car.png"/>
+
+	<export function="createCustomMarker" type="client"/>
+	<export function="destroyCustomMarker" type="client"/>
+	<export function="attachCustomMarker" type="client"/>
+
+	<download_priority_group>3</download_priority_group>
+</meta>

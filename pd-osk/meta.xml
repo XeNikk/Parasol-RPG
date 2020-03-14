@@ -1,0 +1,26 @@
+<meta>
+	<script src="client.lua" type="client" cache="false"/>
+	<script src="server.lua" type="server" cache="false"/>
+
+	<file src="images/background.png"/>
+	<file src="images/button.png"/>
+	<file src="images/hud_background.png"/>
+
+	<file src="sounds/jazda_swobodna.wav"/>
+	<file src="sounds/lewo.wav"/>
+	<file src="sounds/naprzod.wav"/>
+	<file src="sounds/nie_wykonal_polecen.wav"/>
+	<file src="sounds/odpal_silnik_swiatla_reczny.wav"/>
+	<file src="sounds/parkowanie_rownolegle.wav"/>
+	<file src="sounds/parkowanie_tylem.wav"/>
+	<file src="sounds/pociag.wav"/>
+	<file src="sounds/podziemny_parking.wav"/>
+	<file src="sounds/potracenie_pieszego.wav"/>
+	<file src="sounds/prawo.wav"/>
+	<file src="sounds/prosto.wav"/>
+	<file src="sounds/przepusc_pieszego_lewo.wav"/>
+	<file src="sounds/skrec_w_lewo.wav"/>
+	<file src="sounds/skrec_w_lewo_ponownie.wav"/>
+	<file src="sounds/slalom.wav"/>
+	<file src="sounds/wyjazd_parking_lewo.wav"/>
+</meta>

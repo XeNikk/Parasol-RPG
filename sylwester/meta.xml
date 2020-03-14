@@ -1,0 +1,14 @@
+<meta>
+	<oop>true</oop>
+	<script src="server.lua" type="server" cache="false"/>
+	<script src="patterns.lua" type="client" cache="false"/>
+	<script src="client.lua" type="client" cache="false"/>
+
+	<file src="images/gwiazda.png"/>
+
+	<file src="sounds/explode1.mp3"/>
+	<file src="sounds/explode2.mp3"/>
+	<file src="sounds/explode3.mp3"/>
+	<file src="sounds/launch1.mp3"/>
+	<file src="sounds/launch2.mp3"/>
+</meta>

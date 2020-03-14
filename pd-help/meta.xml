@@ -1,0 +1,11 @@
+<meta>
+	<info author="XeN" type="script" name="help" />
+	<script src="c_help.lua" type="client" cache="false" />
+
+	<file src="images/background.png" type="client" />
+	<file src="images/category_background.png" type="client" />
+	<file src="images/logo.png" type="client" />
+	<file src="images/option_background.png" type="client" />
+	<file src="images/scrollbar.png" type="client" />
+	<file src="images/scrollbar_point.png" type="client" />
+</meta>

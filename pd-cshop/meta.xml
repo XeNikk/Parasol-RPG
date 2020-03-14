@@ -1,0 +1,9 @@
+<meta>
+	<info author="XeN" type="script" name="cshop" />
+	<script src="c_cshop.lua" type="client" cache="false" />
+	<script src="s_cshop.lua" type="server" />
+
+	<file src="images/select_skin_back.png" type="client" />
+	<file src="images/list_background_active.png" type="client" />
+	<file src="images/list_background.png" type="client" />
+</meta>

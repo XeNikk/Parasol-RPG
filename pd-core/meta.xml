@@ -1,0 +1,24 @@
+<meta>
+	<oop>true</oop>
+	<script src="players.lua" type="server" cache="false"/>
+	<script src="client.lua" type="client" cache="false"/>
+	<script src="server.lua" type="server" cache="false"/>
+	<script src="chats_local_s.lua" type="server"/>
+	<script src="ghostmode_c.lua" type="client" cache="false"/>
+	<script src="c_wasted.lua" type="client" cache="false"/>
+	<script src="ghostmode_s.lua" type="server" cache="false"/>
+	<file src="images/afk_window.png"/>
+	<export function="toggleElementGhostmode" type="server"/>
+	<export function="takeMoney" type="client"/>
+	<export function="giveMoney" type="client"/>
+	<export function="takeMoney" type="server"/>
+	<export function="giveMoney" type="server"/>
+	<export function="assignPlayerID" type="server"/>
+	<export function="randomPedClothes" type="server"/>
+	<export function="tableToString" type="client"/>
+	<export function="tableFromString" type="client"/>
+	<export function="tableToString" type="server"/>
+	<export function="tableFromString" type="server"/>
+	<export function="setAddData" type="shared"/>
+	<export function="getAddData" type="shared"/>
+</meta>

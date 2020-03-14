@@ -1,0 +1,41 @@
+<meta>
+	<info author="Brzysiek" name="Praca dorywcza - myœliwy" description="Paradise RPG" version="1.0" type="script" />
+	<include resource="npc_hlc" />
+	
+	<file src="images/gui_background.png" type="client" />
+	<file src="images/gui_button.png" type="client" />
+	<file src="images/gui_job_image.png" type="client" />
+	<file src="images/gui_scrollbar.png" type="client" />
+	<file src="images/gui_scrollbar_point.png" type="client" />
+	
+	<file src="images/upgrades_background.png" type="client" />
+	<file src="images/upgrades_background_data.png" type="client" />
+	<file src="images/upgrades_breath_icon.png" type="client" />
+	<file src="images/upgrades_strong_icon.png" type="client" />
+	<file src="images/upgrades_eye_icon.png" type="client" />
+	<file src="images/upgrades_shotgun_icon.png" type="client" />
+	<file src="images/upgrades_termo_icon.png" type="client" />
+	<file src="images/upgrades_button.png" type="client" />
+	<file src="images/upgrades_button_small.png" type="client" />
+	
+	<file src="images/bear.png" type="client" />
+	<file src="images/blood_point.png" type="client" />
+	<file src="images/knife.png" type="client" />
+	<file src="images/point.png" type="client" />
+	
+
+	
+	<file src="sounds/cut.mp3" type="client" />
+	<file src="sounds/forest.mp3" type="client" />
+	
+	<file src="sounds/bear/bear_attack.mp3" type="client" />
+	<file src="sounds/bear/bear_damage.mp3" type="client" />
+	<file src="sounds/wolf/wolf_attack.mp3" type="client" />
+	<file src="sounds/wolf/wolf_damage.mp3" type="client" />
+	
+	<script src="c.lua" type="client" cache="false" />
+	<script src="gui_c.lua" type="client" cache="false" />
+	<script src="upgrades_c.lua" type="client" cache="false" />
+	<script src="upgrades_s.lua" type="server" />
+	<script src="s.lua" type="server" />
+</meta>

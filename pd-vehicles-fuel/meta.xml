@@ -1,0 +1,15 @@
+<meta>
+	<info author="XeN" type="script" name="station" />
+	<script src="c_station.lua" type="client" cache="false" />
+	<script src="s_station.lua" type="server" />
+
+	<file src="images/background.png" type="client" />
+	<file src="images/lpg.png" type="client" />
+	<file src="images/lpg_active.png" type="client" />
+	<file src="images/on.png" type="client" />
+	<file src="images/on_active.png" type="client" />
+	<file src="images/pb.png" type="client" />
+	<file src="images/pb_active.png" type="client" />
+	<file src="images/progressbar.png" type="client" />
+	<file src="images/progressbar_background.png" type="client" />
+</meta>

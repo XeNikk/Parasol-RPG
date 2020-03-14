@@ -1,0 +1,20 @@
+<meta>
+	<script src="client.lua" type="client" cache="false"/>
+	<script src="server.lua" type="server" cache="false"/>
+	<script src="useful.lua" type="client" cache="false"/>
+
+	<file src="images/background.png"/>
+	<file src="images/background_hover.png"/>
+	<file src="images/brake.png"/>
+	<file src="images/engine.png"/>
+	<file src="images/light.png"/>
+	<file src="images/lock.png"/>
+	<file src="images/neon.png"/>
+	<file src="images/passengers.png"/>
+
+	<file src="sounds/brake.mp3"/>
+	<file src="sounds/engine.mp3"/>
+	<file src="sounds/engine_fail.mp3"/>
+	<file src="sounds/light.mp3"/>
+	<file src="sounds/lock.mp3"/>
+</meta>

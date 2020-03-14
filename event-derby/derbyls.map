@@ -1,0 +1,9 @@
+<map edf:definitions="editor_main">
+    <object id="object (ringwalls) (1)" breakable="true" interior="0" alpha="255" model="13607" doublesided="true" scale="1" dimension="0" posX="3752.8999" posY="-1532.9" posZ="123.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (ringwalls) (2)" breakable="true" interior="0" alpha="255" model="13607" doublesided="true" scale="1" dimension="0" posX="3727.5" posY="-1585.1" posZ="116.3" rotX="0.979" rotY="49.26" rotZ="61.864"></object>
+    <object id="object (ringwalls) (3)" breakable="true" interior="0" alpha="255" model="13607" doublesided="true" scale="1" dimension="0" posX="3778.2" posY="-1481.8" posZ="116.3" rotX="0.979" rotY="310.74" rotZ="61.864"></object>
+    <object id="object (ringwalls) (4)" breakable="true" interior="0" alpha="255" model="13607" doublesided="true" scale="1" dimension="0" posX="3814" posY="-1558.7" posZ="116.3" rotX="0" rotY="316.005" rotZ="332"></object>
+    <object id="object (ringwalls) (5)" breakable="true" interior="0" alpha="255" model="13607" doublesided="true" scale="1" dimension="0" posX="3699.6006" posY="-1504.2002" posZ="116.3" rotX="0" rotY="43.995" rotZ="331.996"></object>
+    <object id="object (ringwalls) (6)" breakable="true" interior="0" alpha="255" model="13607" doublesided="true" scale="0.2" dimension="0" posX="3749.8999" posY="-1532.7" posZ="159.89999" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (ringwalls) (8)" breakable="true" interior="0" alpha="255" model="13607" doublesided="true" scale="1" dimension="0" posX="3752.8999" posY="-1532.9" posZ="89.2" rotX="0" rotY="0" rotZ="0"></object>
+</map>

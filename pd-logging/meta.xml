@@ -1,0 +1,40 @@
+<meta>
+	<!-- Autor: libxxerty -->
+	<!-- Dla projektu: Paradice RPG -->
+	<script src="animations.lua" type="client" cache="false"/>
+
+	<script src="client.lua" type="client" cache="false"/>
+	<script src="server.lua" type="server" cache="false"/>
+	<script src="useful.lua" type="client" cache="false"/>
+	<script src="spawns.lua" type="client" cache="false"/>
+	<script src="ban.lua" type="client" cache="false"/>
+
+	<!-- Files -->
+	<file src="data/login/logo.png"/>
+	<file src="data/login/light.png"/>
+	<file src="data/login/hexagon.png"/>
+	<file src="data/login/login.png"/>
+	<file src="data/login/login-hover.png"/>
+	<file src="data/login/register.png"/>
+	<file src="data/login/register-hover.png"/>
+	<file src="data/login/changes.png"/>
+	<file src="data/login/changes-hover.png"/>
+	<file src="data/login/window.png"/>
+	<file src="data/login/button.png"/>
+	<file src="data/login/back.png"/>
+	<file src="data/login/arrow.png"/>
+	<file src="data/login/edit_line.png"/>
+	<file src="data/login/email.png"/>
+	<file src="data/login/password.png"/>
+	<file src="data/login/user.png"/>
+	<file src="data/login/checkbox.png"/>
+	<file src="data/login/checkbox_active.png"/>
+	<file src="data/notifications/success.png"/>
+	<file src="data/notifications/info.png"/>
+	<file src="data/notifications/error.png"/>
+	<file src="data/spawn/background.png"/>
+	<file src="data/spawn/button.png"/>
+	
+	<file src="data/music.mp3"/>
+	<file src="data/ban.mp3"/>
+</meta>

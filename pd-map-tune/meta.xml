@@ -1,0 +1,5 @@
+<meta>
+    <info type="map" name="Tune" author="Sylwegs" version="1.0.0"></info>
+	<map src="pd-maps-tune.map" type="client" cache="false"/>
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+</meta>

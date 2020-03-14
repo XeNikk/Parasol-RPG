@@ -1,0 +1,7 @@
+<settings>
+	<hunter skin_reward="10000" distance_reward="2500" fast_skin_reward="2500"></hunter>
+	<astronaut resource="10000"></astronaut>
+	<fabric carbuild="25000"></fabric>
+	<bus city="5000" countryside="10000" ticket="2500"></bus>
+	<courier reward="5000" tip_reward="5000" boost="1"></courier>
+</settings>

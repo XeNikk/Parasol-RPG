@@ -1,0 +1,16 @@
+<meta>
+	<script src="server.lua" type="server" cache="false"/>
+	<script src="class.lua" type="server" cache="false"/>
+	<script src="class_c.lua" type="client" cache="false"/>
+	<script src="neons.lua" type="client" cache="false"/>
+	<script src="mileage_c.lua" type="client" cache="false"/>
+	<script src="client.lua" type="client" cache="false"/>
+	<export function="getVehicleRPM" type="client"/>
+
+	<export function="loadVehicle" type="server" />
+	<export function="spawnCar" type="server" />
+	<export function="getModelClass" type="shared" />
+	<export function="saveVehicle" type="server" />
+
+	<file src="images/neon.png"/>
+</meta>

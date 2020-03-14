@@ -1,0 +1,5 @@
+<meta>
+	<info author="XeN" type="script" name="vehicles-destroy" />
+	<script src="c_vehicles-destroy.lua" type="client" cache="false" />
+	<script src="s_vehicles-destroy.lua" type="server" />
+</meta>

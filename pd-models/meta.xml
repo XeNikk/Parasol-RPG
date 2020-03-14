@@ -1,0 +1,26 @@
+<meta>
+	<script src="client.lua" type="client" cache="false"/>
+	<export function="loadModels" type="client"/>
+	<export function="unloadModels" type="client"/>
+
+	<file src="models/job_hunter/bear.dff"/>
+	<file src="models/job_hunter/bear.txd"/>
+	<file src="models/job_hunter/ghillie.dff"/>
+	<file src="models/job_hunter/ghillie.txd"/>
+	<file src="models/job_hunter/hunter.dff"/>
+	<file src="models/job_hunter/hunter.txd"/>
+	<file src="models/job_hunter/wolf.dff"/>
+	<file src="models/job_hunter/wolf.txd"/>
+	<file src="models/required/NASA.dff"/>
+	<file src="models/required/NASA.txd"/>
+	<file src="models/required/NASA.col"/>
+	<file src="models/required/NASAadd.dff"/>
+	<file src="models/required/NASAadd.txd"/>
+	<file src="models/required/NASAadd.col"/>
+	<file src="models/required/battery.dff"/>
+	<file src="models/required/battery.txd"/>
+	<file src="models/required/bus.dff"/>
+	<file src="models/required/bus.txd"/>
+	<file src="models/required/coach.dff"/>
+	<file src="models/required/coach.txd"/>
+</meta>

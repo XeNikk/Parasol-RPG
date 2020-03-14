@@ -1,0 +1,107 @@
+<meta>
+	<download_priority_group>1</download_priority_group>
+
+	<file src="fx/blackwhite.fx" type="client" />
+	<script src="fx/vehicles.fx" cache="false" type="client" />
+	<script src="fx/hdr.fx" type="server" />
+	<file src="sounds/hover.wav" type="client" />
+	<file src="sounds/click.wav" type="client" />
+	<file src="sounds/deny.wav" type="client" />
+	<file src="fonts/normal.ttf" type="client" />
+	<file src="fonts/bold.ttf" type="client" />
+	<file src="fonts/gtav.ttf" type="client" />
+	<file src="images/down.png" type="client" />
+	<file src="images/up.png" type="client" />
+	<file src="images/confirmation_window/background.png" type="client" />
+	<file src="images/confirmation_window/button.png" type="client" />
+
+	<script src="button_c.lua" cache="false" type="client" />
+	<script src="blackwhite_c.lua" cache="false" type="client" />
+	<script src="fonts_c.lua" cache="false" type="client" />
+	<script src="main_c.lua" cache="false" type="client" />
+	<script src="edit_c.lua" cache="false" type="client" />
+	<script src="list_c.lua" cache="false" type="client" />
+	<script src="checkbox_c.lua" cache="false" type="client" />
+	<script src="confirmation_c.lua" cache="false" type="client" />
+	<script src="scroll_c.lua" cache="false" type="client" />
+	<script src="gridlist_c.lua" cache="false" type="client" />
+
+	<export function="getInterfaceZoom" type="client" />
+
+	<export function="createButton" type="client" />
+	<export function="destroyButton" type="client" />
+	<export function="getButtonPosition" type="client" />
+	<export function="setButtonEnabled" type="client" />
+	<export function="setButtonTextures" type="client" />
+	<export function="setButtonTexturesColor" type="client" />
+	<export function="setButtonPosition" type="client" />
+	<export function="setButtonFont" type="client" />
+	<export function="setButtonText" type="client" />
+	<export function="isButtonHovered" type="client" />
+	<export function="renderButton" type="client" />
+
+	<export function="createEditbox" type="client" />
+	<export function="setEditboxMaxLength" type="client" />
+	<export function="destroyEditbox" type="client" />
+	<export function="renderEditbox" type="client" />
+	<export function="setEditboxText" type="client" />
+	<export function="getEditboxText" type="client" />
+	<export function="setEditboxHelperText" type="client" />
+	<export function="setEditboxImage" type="client" />
+	<export function="setEditboxLine" type="client" />
+	<export function="setEditboxMasked" type="client" />
+	<export function="setEditboxAlpha" type="client" />
+	<export function="setEditboxASCIIMode" type="client" />
+	<export function="setEditboxNumberMode" type="client" />
+	<export function="setEditboxPosition" type="client" />
+	<export function="setEditboxSpace" type="client" />
+	<export function="isEditboxActive" type="client" />
+
+	<export function="createList" type="client" />
+	<export function="destroyList" type="client" />
+	<export function="renderList" type="client" />
+	<export function="addListItem" type="client" />
+	<export function="setListFont" type="client" />
+	<export function="getListSelectedItem" type="client" />
+
+	<export function="createConfirmationWindow" type="client" />
+	<export function="destroyConfirmationWindow" type="client" />
+	<export function="renderConfirmationWindow" type="client" />
+
+	<export function="createScroll" type="client" />
+	<export function="renderScroll" type="client" />
+	<export function="destroyScroll" type="client" />
+	<export function="moveScroll" type="client" />
+	<export function="getScrollProgress" type="client" />
+	<export function="setScrollProgress" type="client" />
+	<export function="resetScroll" type="client" />
+
+	<export function="createGridlist" type="client" />
+	<export function="destroyGridlist" type="client" />
+	<export function="addGridlistColumn" type="client" />
+	<export function="addGridlistItem" type="client" />
+	<export function="setGridlistFont" type="client" />
+	<export function="setGridlistSelectionMode" type="client" />
+	<export function="getGridlistSelectedItems" type="client" />
+	<export function="renderGridlist" type="client" />
+	<export function="clearGridlistItems" type="client" />
+	<export function="setGridlistItemSelected" type="client" />
+	<export function="setGridlistItemColor" type="client" />
+	<export function="moveGridlistScroll" type="client" />
+
+	<export function="createCheckbox" type="client" />
+	<export function="destroyCheckbox" type="client" />
+	<export function="getCheckboxPosition" type="client" />
+	<export function="setCheckboxTextures" type="client" />
+	<export function="setCheckboxFont" type="client" />
+	<export function="setCheckboxPosition" type="client" />
+	<export function="setCheckboxActive" type="client" />
+	<export function="renderCheckbox" type="client" />
+	<export function="setCheckboxText" type="client" />
+	<export function="isCheckboxActive" type="client" />
+	<export function="setEditboxTextures" type="client" />
+
+	<export function="getGUIFont" type="client" />
+
+	<export function="drawBWRectangle" type="client" />
+</meta>

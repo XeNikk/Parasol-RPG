@@ -1,0 +1,9 @@
+<meta>
+	<script src="client.lua" type="client" cache="false"/>
+	<script src="server.lua" type="server" cache="false"/>
+	<export function="create3DText" type="client"/>
+	<export function="setVehicle3DText" type="client"/>
+	<export function="create3DText" type="server"/>
+	<export function="change3DTextText" type="server"/>
+	<export function="setVehicle3DText" type="server"/>
+</meta>

@@ -1,0 +1,13 @@
+<meta>
+	<script src="s.lua" type="server" cache="false"/>
+	<script src="c.lua" type="client" cache="false"/>
+	<script src="gui_c.lua" type="client" cache="false"/>
+
+	<file src="images/background.png"/>
+	<file src="images/button.png"/>
+	<file src="images/background2.png"/>
+	<file src="images/scrollbar.png"/>
+	<file src="images/scrollbar_point.png"/>
+
+	<file src="sounds/repair.mp3"/>
+</meta>

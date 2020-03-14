@@ -1,0 +1,7 @@
+<meta>
+    <script src="client.lua" type="client" cache="false" />
+	
+	<file src="images/icons/afk.png" type="client" />
+    <file src="images/icons/chat.png" type="client" />
+    <file src="images/icons/premium.png" type="client" />
+</meta>

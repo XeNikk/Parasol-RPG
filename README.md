@@ -1,1 +1,4 @@
-"# parasol-rpg" 
+"# Parasol RPG"
+## Table of contents
+* XeN.
+* Liberty

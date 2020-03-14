@@ -1,0 +1,16 @@
+<meta>
+	<script src="async.lua" type="server" />
+		
+	<script src="c.lua" cache="false" type="client" />
+	<script src="s.lua" type="server" />
+	
+	<export function="getJobData" type="shared" />
+	<export function="setJobData" type="server" />
+	<export function="getTopJobData" type="server" />
+	<export function="addPlayerTopData" type="server" />
+	<export function="getPlayerTopData" type="server" />
+	<export function="addPlayerJobUpgrade" type="server" />
+	<export function="addPlayerJobUpgradePoints" type="server" />
+	<export function="isPlayerHaveUpgrade" type="shared" />
+	<export function="getPlayerJobPoints" type="shared" />
+</meta>

@@ -1,0 +1,4 @@
+addEventHandler('onResourceStart', resourceRoot,
+    function()
+        local strefa = createColCuboid(-2671.19, -367.88, 9.17, 2.95, -0.36, 2.07)
+    end)

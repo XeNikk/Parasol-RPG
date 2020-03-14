@@ -1,0 +1,4 @@
+<meta>
+	<script src="server.lua" type="server" cache="false"/>
+	<export function="query" type="server"/>
+</meta>

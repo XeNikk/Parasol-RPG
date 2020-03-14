@@ -1,0 +1,29 @@
+<meta>
+	<info author="XeN" type="script" name="achievements" />
+	<script src="anim.lua" type="client" cache="false" />
+	<script src="c_achievements.lua" type="client" cache="false" />
+	<script src="c_core.lua" type="client" cache="false" />
+	<script src="s_exports.lua" type="server" />
+	<file src="images/icons/pierwsze_auto.png" type="client"/>
+	<file src="images/icons/pierwsza_fucha.png" type="client"/>
+	<file src="images/icons/bez_pracy.png" type="client"/>
+	<file src="images/icons/biznesmen_1.png" type="client"/>
+	<file src="images/icons/biznesmen_2.png" type="client"/>
+	<file src="images/icons/biznesmen_3.png" type="client"/>
+	<file src="images/icons/haker.png" type="client"/>
+	<file src="images/icons/milioner.png" type="client"/>
+	<file src="images/icons/niszczyciel.png" type="client"/>
+	<file src="images/icons/no_life.png" type="client"/>
+	<file src="images/icons/nocny_gracz.png" type="client"/>
+	<file src="images/icons/pierwsza_krew.png" type="client"/>
+	<file src="images/icons/pierwszy_zgon.png" type="client"/>
+	<file src="images/icons/przestepca.png" type="client"/>
+	<file src="images/icons/sluzyc.png" type="client"/>
+	<file src="images/icons/szpan.png" type="client"/>
+	<file src="images/icons/zboczeniec.png" type="client"/>
+
+	<file src="sounds/achievement.wav" />
+	<export function="addPlayerAchievement" type="client"/>
+	<export function="getAchievements" type="client"/>
+	<export function="exportAchievement" type="server"/>
+</meta>

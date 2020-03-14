@@ -1,0 +1,8 @@
+<meta>
+	<script src="batiskaf.lua" type="client" cache="false"/>
+	<!--script src="c.luac" type="client" cache="false"/-->
+	<script src="server.lua" type="server" cache="false"/>
+
+	<file src="batiskaf/batiskaf.dff"/>
+	<file src="batiskaf/batiskaf.txd"/>
+</meta>

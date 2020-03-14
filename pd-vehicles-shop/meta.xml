@@ -1,0 +1,14 @@
+ <meta>
+ <info author="XeN" type="script" name="vehicles-shop" />
+	<script src="c_vehicles-shop.lua" type="client" cache="false" />
+	<script src="s_vehicles-shop.lua" type="server" />
+
+	<file src="images/background.png" type="client" />	
+	<file src="images/button.png" type="client" />
+
+	<file src="images/klasy/A.png" type="client" />	
+	<file src="images/klasy/B.png" type="client" />	
+	<file src="images/klasy/C.png" type="client" />	
+	<file src="images/klasy/D.png" type="client" />	
+	<file src="images/klasy/E.png" type="client" />	
+ </meta>

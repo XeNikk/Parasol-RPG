@@ -1,0 +1,10 @@
+<meta>
+	<script src="c.lua" type="client" cache="false"/>
+	<script src="s.lua" type="server" cache="false"/>
+
+	<file src="images/background_request.png"/>
+	<file src="images/background_tune.png"/>
+	<file src="images/button.png"/>
+	<file src="images/scrollbar.png"/>
+	<file src="images/scrollbar_point.png"/>
+</meta>

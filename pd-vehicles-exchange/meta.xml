@@ -1,0 +1,13 @@
+<meta>
+	<info author="XeN" type="script" name="vehicles-exchange" />
+	<script src="c_vehicles-exchange.lua" type="client" cache="false" />
+	<script src="s_vehicles-exchange.lua" type="server" />
+	<script src="c_vehicles-exchange-preview.lua" type="client" cache="false" />
+
+	<file src="images/store/background.png" type="client" />
+	<file src="images/store/edit_line.png" type="client" />
+	<file src="images/store/button.png" type="client" />
+	<file src="images/preview/background.png" type="client" />
+	<file src="images/preview/button.png" type="client" />
+	<file src="images/preview/color.png" type="client" />
+</meta>

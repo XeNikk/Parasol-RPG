@@ -1,0 +1,9 @@
+<meta>
+	<script src="client.lua" type="client" cache="false"/>
+
+	<file src="images/background.png"/>
+	<file src="images/editbox.png"/>
+	<file src="images/editbox_active.png"/>
+	<file src="images/logo.png"/>
+	<file src="images/player_background.png"/>
+</meta>
