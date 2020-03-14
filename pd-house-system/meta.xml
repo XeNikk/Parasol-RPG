@@ -1,0 +1,16 @@
+<meta>
+  <info author="XeN" type="script" name="house-system"/>
+  <script src="c_house-system.lua" type="client" cache="false"/>
+  <script src="s_house-system.lua" type="server"/>
+  <script src="c_map.lua" type="client" cache="false"/>
+  <file src="door.mp3" />
+  <file src="images/background.png" type="client"/>
+  <file src="images/icon_house.png" type="client"/>
+  <file src="images/option_background.png" type="client"/>
+  <file src="images/option_background_on.png" type="client"/>
+  <file src="images/money.png" type="client"/>
+  <file src="images/star.png" type="client"/>
+  <file src="images/icon_house.png" type="client"/>
+  <file src="images/gui_button.png" type="client"/>
+
+</meta>
