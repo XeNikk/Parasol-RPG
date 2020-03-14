@@ -1,4 +1,4 @@
-"# Parasol RPG"
-## Table of contents
+## Parasol RPG
+## Autorzy
 * XeN.
 * Liberty
