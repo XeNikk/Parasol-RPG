@@ -2,8 +2,8 @@
 	<download_priority_group>1</download_priority_group>
 
 	<file src="fx/blackwhite.fx" type="client" />
-	<script src="fx/vehicles.fx" cache="false" type="client" />
-	<script src="fx/hdr.fx" type="server" />
+
+
 	<file src="sounds/hover.wav" type="client" />
 	<file src="sounds/click.wav" type="client" />
 	<file src="sounds/deny.wav" type="client" />
