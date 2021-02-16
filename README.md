@@ -1,8 +1,5 @@
-## Parasol RPG
-Paczka zasobów "kopii" serwera Paradise RPG V1
-## Zawartość repozytorium
-* Zasoby serwera zaraz po zamknięciu serwera
-* Struktura bazy danych
+## GizmoPack
+Modularna paczka obiektów, rozszerzająca możliwości tworzenia map.
 ## Autorzy
-* XeN.
-* Liberty
+* THEGizmo
+* XeN
